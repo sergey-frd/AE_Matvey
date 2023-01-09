@@ -1,0 +1,37 @@
+====================
+Matvey23mr2 Date: Fri Dec 30 2022 18:14:10 GMT+0200
+ getRandomInt: 2
+ getRandomInt: 1
+ getRandomInt: 2
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Matvey\\xml\\ae_System_22_s5mm.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Matvey\\xml\\ae_System_22_s5mm.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/AI/stable-diffusion-portable/outputs/extras-images/00017.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_PSD/221228_67aii.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_61a.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/2212230_81.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 4
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\AI\\stable-diffusion-portable\\outputs\\extras-images\\00017.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_PSD\\221228_67aii.psd
+!! Not found findItem 
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_61a.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\2212230_81.jpg
+!! Not found findItem 
+!! Not found findItem 
+====================

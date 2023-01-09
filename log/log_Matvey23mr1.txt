@@ -1,0 +1,121 @@
+====================
+Matvey23mr1 Date: Fri Dec 30 2022 07:09:16 GMT+0200
+ getRandomInt: 9
+ getRandomInt: 4
+ getRandomInt: 6
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Matvey\\xml\\ae_System_22_s5m.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Matvey\\xml\\ae_System_22_s5m.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221227_31.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_54.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_55.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221229_73.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221229_74.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221229_75.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221121_25.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221227_44ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_64ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_66ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_67ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_68ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_71ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_50ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_69ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_58ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/2022_03ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221227_42ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/2022_02ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_61a.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_52ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_56ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_57ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_70ai.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/2022/2022_IG/221228_51ai.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 25
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221227_31.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_54.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_55.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221229_73.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221229_74.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221229_75.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221121_25.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221227_44ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_64ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_66ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_67ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_68ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_71ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_50ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_69ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_58ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\2022_03ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221227_42ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\2022_02ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_61a.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_52ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_56ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_57ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_70ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\2022\\2022_IG\\221228_51ai.jpg
+!! Not found findItem 
+!! Not found findItem 
+====================
